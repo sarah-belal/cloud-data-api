@@ -1,4 +1,3 @@
-# cloud-data-api
 # Cloud Data API with Terraform
 
 This project implements a FastAPI REST API for managing and consolidating data, including endpoints to post and retrieve weather records. 
