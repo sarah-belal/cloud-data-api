@@ -18,17 +18,6 @@ It simulates a master data workflow by receiving data through a REST API, and in
 
 ---
 
-## Project Structure
-
-cloud-data-api/
-│
-├── api/ # FastAPI backend code
-├── terraform/ # Terraform configuration files
-└── README.md # Project documentation
-
-yaml
----
-
 ## Tech Stack
 
 - Python, FastAPI, Pydantic
